@@ -286,3 +286,4 @@ pages 配置
 
 ##### sign 证书配置
 sign放到项目根目录，编译后自动拷贝到 .quickapp/sign，每次编译完成时会删除.quickapp，避免证书丢失
+哈
